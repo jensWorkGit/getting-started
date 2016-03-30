@@ -8,8 +8,8 @@ ECHO :: Start all services                                                   ::
 ECHO ::                                                                      ::
 ECHO ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-start startAppAll.cmd
-start startShopService.cmd
-start startShopStats.cmd
 start startMathPinService.cmd
+start startShopStats.cmd
+start startShopService.cmd
+start startAppAll.cmd
 
