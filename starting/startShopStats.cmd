@@ -1,0 +1,1 @@
+nodemon ../shop-stats.js --seneca.log.all

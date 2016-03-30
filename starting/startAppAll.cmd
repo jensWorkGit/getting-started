@@ -1,0 +1,1 @@
+nodemon ../app-all.js --seneca.log.all

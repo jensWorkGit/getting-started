@@ -1,0 +1,1 @@
+nodemon ../math-pin-service.js --seneca.log.all
